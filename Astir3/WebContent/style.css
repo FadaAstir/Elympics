@@ -1,0 +1,102 @@
+nav{
+	text-align: center;
+}
+
+.astirimg{
+	width:180px; height:50px; text-align:center ;
+}
+
+.etlaboraimg{
+	width:200px; height:100px; text-align:right;
+}
+
+.cvoci{
+	margin: auto;
+	text-align: center;
+	margin-left: 29.4%;
+}
+
+.caro{
+	margin: auto;
+	width:700px; height:500px;
+}
+
+.log{
+	margin: auto;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.games{
+	float: both;
+}
+
+.card{
+	float: left;
+	margin-left: 11.25%;
+	margin-top: 1%; 
+}
+
+tbody{
+	color:#007bff;
+}
+
+::-webkit-scrollbar{
+	width: 0px;}
+}
+
+.tab{
+	margin-top: 5% !important;
+}
+
+.carousello{
+	margin-bottom: 5% !important;
+}
+
+.icon{
+color: #007bff;
+}
+
+.dd{
+	color: #007bff;
+
+}
+
+.sub{
+	margin: auto;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.nav{
+	text-align: center;
+	align-items: center;
+}
+
+.dd:hover{
+	color: #0057b3;
+}
+
+.dropdown-toggle::after {
+    display: inline-block;
+    color: #007bff;
+    margin-left: .255em;
+    vertical-align: .255em;
+    content: "";
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+}
+
+.foot{
+	color: #007bff;
+}
+
+.med{
+	color: #007bff;
+}
+
+.btn:hover{
+	 box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
